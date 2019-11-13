@@ -1,2 +1,2 @@
-# Simple_Shoutbox
-Vanilla JS - Simple shoutbox
+# SimpleShoutbox
+Simple [shoutbox][https://en.wikipedia.org/wiki/Shoutbox]
