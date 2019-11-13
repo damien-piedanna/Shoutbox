@@ -1,2 +1,2 @@
-# SimpleShoutbox
-Simple [shoutbox](https://en.wikipedia.org/wiki/Shoutbox)
+# Shoutbox
+[Shoutbox](https://en.wikipedia.org/wiki/Shoutbox) in JS
